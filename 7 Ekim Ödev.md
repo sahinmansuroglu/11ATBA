@@ -8,3 +8,7 @@
 11 Ekim Gece 12'ye kadar yukarıdaki uygulama mail atılacak.
 
 20 Puanlık Uygulama
+
+> Ödev Yapılırken Aşağıdaki linkten faydalanılabilinir.
+
+https://github.com/sahinmansuroglu/NtpDersi/blob/main/5_Hafta_Ders_4.md
