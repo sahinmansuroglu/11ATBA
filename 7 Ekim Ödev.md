@@ -4,6 +4,8 @@
 1. adSoyad, dogumTarihi, dogumYeri, okulNo,  özellikleri bulunacak.
 2. yasHesapla ve bilgileriEkranaYaz metodları bulunacak
 
+> **Kurucu metot kullanılmalı**
+
 
 11 Ekim Gece 12'ye kadar yukarıdaki uygulama mail atılacak.
 
