@@ -1,8 +1,7 @@
 
 > Aşağıda verilenlere göre  bir sınıf tasarlayınız.Ve bu sınıftan klavyeden girilen verilere göre for döngüsü yardımıyla 3 nesne oluşturup bilgilerini ekrana yazdırınız.
 
-1. adSoyad, okulNo, puan1, puan2, puan3 alanları bulunacak.
-> Yukarıdaki alanlar aşağıdaki şartlarda kapsüllenecek
+1. adSoyad, okulNo, puan1, puan2, puan3 alanları bulunacak ve aşağıdaki şartlarda kapsüllenecek
     1. adSoyad boş gelirse "Ad Soyad girilmedi" atanacak"
     2. okulNo rakam girilmezse "0 atanacak"
     3. puan1, puan2, puan3 0 ile 100 arasında girilmezse 0 değeri atanacak
